@@ -1,0 +1,40 @@
+
+
+
+<div class="main">
+	<span class="pic-main" data-picture data-alt="Main Page Image">
+		<span data-src="images/professor/phone-portrait.jpg" data-media="(max-width:320px)"></span>
+		<span data-src="images/professor/phone-landscape.jpg" data-media="(min-width: 321px) and (max-width:479px)"></span>
+		<span data-src="images/professor/tablet.jpg" data-media="(min-width: 480px) and (max-width:767px)"></span>
+        <span data-src="images/professor/desktop.jpg" data-media="(min-width: 768px)"></span>
+		<noscript>
+            <img src="images/professor/tablet.jpg" alt="test of picturefill.js">
+		</noscript>
+	</span>
+    
+    <div class="testimonial-body-bkg">
+    <span class="testimonial">
+    “Professor Marcos is one of those rare breed of teacher; he's all in with every student and if you really WANT to learn, he will 		
+    never let you down and will always treat you with patience and respect.”
+    </span>
+    <span class="testimonial-name">Fernando A.</span>
+    </div>
+    <p>&nbsp;</p>
+    <div class="copy-body-bkg">
+    	<div>Professor Marcos Cerqueira is a second degree Jiu Jitsu black belt under Professor André “Negao” Terencio.</div>
+        <br><br>
+        <div>Marcos picked up Jiu Jitsu in adolescence (1994), he practiced sports at the “Atletica da Tijuca” academy were some friends also trained BJJ. One day he decided to take his friends challenge and give grappling a go.</div>
+    	<br><br>
+        <div>There he met Master Carlos Henrique, a black belt who taught there and that would become his master for the next 14 years. Carlos Henrique followed Marcos development close hand, awarding him his blue (1996), purple (1998) and brown (2001) belts. But he always took young Marcos to train at different academies, including the famous Carlson Gracie Academy in Copacabana – Rio de Janeiro, where Marcos Cerqueira had a chance to train alongside some of his childhood heroes. Fighters like Wallid Ismail and Ricardo Libório. He also visited the famous Mestre Saporito academy in Lagoa, another important black belt graduated by master Carlson Gracie. Marcos Cerqueira received his black belt from André Terencio, a black belt of his master Carlos Henrique in 2007 and in 2008 he moved to the US to develop his very own school in South Texas. He sought to form an academy according to his academic plan, a plan he devoloped in his many years of practice and interaction with one of the best lineages of all time.</div>
+	<br><br>
+<div>Marcos Cerqueira Lineage: Mitsuyo Maeda > Carlos Gracie > Helio Gracie > Francisco Mansur > Carlos Henrique > André Terencio > Marcos Cerqueira</div>
+    </div>
+    <p>&nbsp;</p>
+    <div class="quote-bkg">
+    <span class="quote">“For me Jiu-Jitsu is more than a simple martial art, is the base of my life. It’s a pleasure to be able to teach and pass forward the art that I had the  opportunity to learn from great Masters and some great athletes throughout my life”.</span>
+    <span class="quote-name">Professor Marcos Cerqueira</span>
+    </div>
+</div>
+</div>
+
+

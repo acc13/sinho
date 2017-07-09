@@ -1,0 +1,78 @@
+
+
+
+
+    <p>&nbsp;</p>
+    <div class="footer">
+        <span class="footer-copy">
+        <a href="tel:9783778008" class="footer-phone">
+            978.377.8008
+        </a>
+        <a href="mailto:brazil021ma@gmail.com" class="footer-email">    
+          brazil021ma@gmail.com
+      </a>
+  </span>
+    </div>
+    <div class="fatFooter">
+        <span id="footerList">
+       <ul>
+        <li>
+           <a href="https://www.facebook.com/bra021houston" target="_blank">
+            <center>
+               <font class="uiIcon">f</font>
+               <font class="iconName">FACEBOOK</font>
+           </center>
+       </a>
+   </li>
+   <li>
+       <a href="location.html">
+           <center>
+               <font class="uiIcon">l</font>
+               <font class="iconName">LOCATION</font>
+           </center>
+       </a>
+   </li>
+   <li>
+       <a href="schedule.html">
+           <center>
+               <font class="uiIcon">s</font>
+               <font class="iconName">SCHEDULE</font>
+           </center>
+       </a>
+   </li>
+   <li>
+       <a href="contact.html">
+           <center>
+               <font class="uiIcon">i</font>
+               <font class="iconName">CONTACT</font>
+           </center>
+       </a>
+   </li>
+</ul>
+</span>
+    </div>
+    </div>
+    <script>
+    var menu_open = false;
+    var menu_container = document.getElementById("navigation");
+    var toggle_menu = document.getElementById("mobile-menu");
+
+    function toggle() {
+        if (menu_open === false) {
+            /*toggle_menu.style.display="none";*/
+            TweenMax.to(menu_container, .25, {
+                height: 240
+            });
+            menu_open = true;
+        } else {
+            /*toggle_menu.style.display="block";*/
+            TweenMax.to(menu_container, .25, {
+                height: 31
+            });
+            menu_open = false;
+        }
+    }
+    </script>
+</body>
+
+</html>

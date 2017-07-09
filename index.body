@@ -1,0 +1,127 @@
+
+
+
+    
+    <div class="main">
+
+        <!-- main image -->
+        <span class="pic-main" data-picture data-alt="Main Page Image">
+            <span data-src="images/main/desktop.jpg" data-media="(min-width: 768px)"></span>
+            <noscript>
+                <img src="images/main/tablet.jpg" alt="test of picturefill.js">
+            </noscript>
+        </span>
+
+        <!-- divider -->
+        <div class="divider">
+            <div class="div-img"><img src="images/div-image2.png"></div>
+            <div class="freeclass-copy">
+                <span>DISCOVER THE WORLDS MOST EFFECTIVE FORM OF SELF DEFENSE WITH<br>
+                    <font class="bold">1 FREE WEEK OF TRAINING</font>
+                </span>
+                <a href="bjj-contact_dt.html">
+                    <button class="freeclass-btn">LEARN MORE</button>
+                </a>
+            </div>
+        </div>
+
+        <!-- news -->
+        <div style="padding:1.6em 0 1em 0;">
+            <h3>BRAZIL-021 MA NEWS</h3>
+        </div>
+
+        <div class="body-news ">
+            <div class="section group">
+
+                <!--pillar one-->
+                <div class="col span_1_of_3">
+                    <a href="bjj-location.html">
+                        <div class="article">
+                            <span class="news-title-block">
+                        <span class="news-img" data-picture data-alt="BRAZIL-021 LOGO">
+                          <span data-src="images/news/Brazil-021.jpg" data-media="(max-width:767px)" class="news-img-sml"></span>
+                            <span data-src="images/news/Brazil-021.jpg" data-media="(min-width:768px)" class="logo-lrg"></span>
+                            <noscript>
+                                <img src="images/news/Brazil-021.jpg" alt="">
+                            </noscript>
+                            </span>
+                            <span class="orange-block">
+                        <font class="news-title">BRAZIL-021 EXPANDS <br> TO MASSACHUSETTS</font>
+                    </span>
+                            <br>
+                            <font class="news-title-date">07.10.2017</font>
+                            <br />
+                            <span class="news-copy">    
+                       
+                      Brazil 021 opens a new branch located at Gold's Gym in Arlington.
+                      <br/><br/>
+                  </span>
+                            </span>
+                        </div>
+                    </a>
+                </div>
+
+                <!--pillar two -->
+                <div class="col span_1_of_3">
+                    <a href="index.html">
+                        <div class="article">
+                            <span class="news-title-block">
+                <span class="news-img" data-picture data-alt="weve moved to 1st class training">
+                  <span data-src="images/news/worldspodium.jpg" data-media="(max-width:767px)"class="news-img-sml"></span>
+                            <span data-src="images/news/worldspodium.jpg" data-media="(min-width:768px)" class="logo-lrg"></span>
+                            <noscript>
+                                <img src="images/news/worldspodium.jpg" alt="">
+                            </noscript>
+                            </span>
+                            <span class="orange-block">
+                <font class="news-title">Brazil-021, MA
+                    <br/>IBJJF Worlds 2017</font>
+                </span>
+                            <br>
+                            <font class="news-title-date">06.01.2017</font>
+                            <br />
+                            <span class="news-copy">    
+                    Congratulations to our competition team members at this year's World Championships in Long Beach!
+                    <br /><br />
+                </span>
+                            </span>
+                        </div>
+                    </a>
+                </div>
+
+                <!--pillar three-->
+                <div class="col span_1_of_3">
+                    <a href="index.html">
+                        <div class="article">
+                            <span class="news-title-block">
+                                <span class="news-img" data-picture data-alt="Inside 1st Class Training">
+                                    <span data-src="images/news/ibjjf.jpg" data-media="(max-width:767px)"class="news-img-sml"></span>
+                                    <span data-src="images/news/ibjjf.jpg" data-media="(min-width:768px)" class="logo-lrg"></span>
+                                    <noscript>
+                                        <img src="images/news/ibjjf.jpg" alt="">
+                                    </noscript>
+                                </span>
+                                <span class="orange-block">
+                                    <font class="news-title">Upcoming events<br></font><Br>
+                                </span>
+                                <br>
+                                <font class="news-title-date">July-August.2017</font>
+                                <br />
+                                <span class="news-copy">    
+                                    July 29, 2017
+                                    <br>
+                                    Boston Summer International Open 
+                                    <br>
+                                    <br>
+                                    <br>
+                                    August 24,25,26 2017<br>
+                                    World Master Jiu-Jitsu Championship
+                                </span>
+                            </span>
+                        </div>
+                    </a>
+                </div>
+            </div>  <!--section group-->
+        </div>  <!--body-news-->
+    </div>  <!--main-->
+

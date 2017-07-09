@@ -1,0 +1,54 @@
+
+
+
+<div class="main">
+	<span class="pic-main" data-picture data-alt="Main Page Image">
+		<span data-src="images/youthbjj/phone-portrait2.jpg" data-media="(max-width:320px)"></span>
+		<span data-src="images/youthbjj/phone-landscape2.jpg" data-media="(min-width: 321px) and (max-width:479px)"></span>
+		<span data-src="images/youthbjj/tablet2.jpg" data-media="(min-width: 480px) and (max-width:767px)"></span>
+        <span data-src="images/youthbjj/desktop2.jpg" data-media="(min-width: 768px)"></span>
+		<noscript>
+            <img src="images/youthbjj/tablet2.jpg" alt="test of picturefill.js">
+		</noscript>
+	</span>
+    
+    <div class="testimonial-body-bkg">
+    <span class="testimonial">
+    “Marcos is a great instructor and mentor. He is an accomplished martial artist and knows how to teach
+	and motivate his younger students.”</span>
+    <span class="testimonial-name">Eugene M.</span>
+    </div>
+    <p>&nbsp;</p>
+    <div class="copy-body-bkg">
+    	<div>
+        Brazilian Jiu-Jitsu has no age restriction, and for kids it is a very fun way to exercise, increase motor skills, flexibility 
+        and more.
+        <br /><br />
+        The child who practices jiu-jitsu grows up confident, healthy and learns from an early age how to handle any kind of 
+        situation.
+        <br /><br />
+        </div>
+        
+        <div>
+        <a style="color:#333;" href=
+	"http://www.khou.com/home/Parents-turn-children-on-to-new-tactic-to-fend-off-bullies-105381833.html" target="_blank" class="mobile-link"><img class="body-image floatleft" src="images/youthbjj/nobully.jpg" alt="no bully KHOU tv spot" style="border:4px solid #9e9e9e;"/>
+        Our Youth BJJ Program was recently showcased on a KHOU Channel 11 Houston news segment regarding the growing number of parents that have turned to new 
+        tactics to protect their children from bullies.
+        </a>
+        </div>
+        
+       <div>
+       	<br><br> 
+        <h3>NEW FAMILY CLASS</h3><br />Saturdays <font class="number">9:00</font> a.m. - <font class="number">10:00</font> a.m.<br />There’s no better way to start 	
+        off your weekend, than spending time with you children on the mats!
+		<br />
+		This class is for parents who would like to spend time with their kids on the mats. The idea is 
+        to have fun to have and a great bonding moment with their loved ones while leaning Brazilian 	
+        Jiu-Jitsu and Self-Defense together. Only parents fathers and mothers or legal guardians will be 	
+        allowed in the class. No child can train alone, and no parent can be on the mat without his or 	
+        her children for this class.
+      </div>
+      
+      </div>
+</div>
+
